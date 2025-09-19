@@ -86,7 +86,7 @@ I specialize in building scalable AI systems, reinforcement learning agents, and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma-tech&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma-tech&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
