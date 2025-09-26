@@ -1,8 +1,3 @@
-![](assets/Bottom_up.svg)
-
-![](assets/header.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ec008c&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B,+I+am+Ankit+Sharma;Senior+Data+Scientist+%7C+ML+Engineer;7%2B+Years+Experience+in+AI+%26+Data;Reinforcement+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%7C+Deep+Learning+%7C+MLOps;Optimizing+1+Trillion+Transactions+at+Index+Exchange;Ex-Loblaw+Digital+%7C+Seehash+Software;Awarded+Distinction+in+MSc+Data+Science;Quantum+Computing+%7C+Blockchain+Certified;Toronto,+Canada;Let%27s+collaborate+on+AI+%26+Innovation)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Ankit Sharma
 
