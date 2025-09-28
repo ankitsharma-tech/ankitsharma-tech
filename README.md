@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Ankit Sharma
 
 This profile reflects my journey as a **Senior Data Scientist and Machine Learning Engineer** with 7+ years of experience.  
@@ -82,6 +81,11 @@ I specialize in building scalable AI systems, reinforcement learning agents, and
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsharma-tech&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitsharma-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=-Issues,-PullRequestReviews,-Reviews)
 
 ---
 
