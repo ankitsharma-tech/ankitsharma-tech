@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Sharma
 
-This profile reflects my journey as a **Senior Data Scientist and Machine Learning Engineer** with 7+ years of experience.  
+This profile reflects my journey as a **Senior Data Scientist and Machine Learning Engineer** with 10+ years of experience.  
 I specialize in building scalable AI systems, reinforcement learning agents, and generative AI applications that drive measurable business and market impact.  
 
 ---
